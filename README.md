@@ -49,6 +49,20 @@ Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?u
 ## References
 **Paper References**
 
+[1]  	C. Ledig et al., "Photo-realistic single image super-resolution using a generative adversarial network," Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition, CVPR 2017, vol. 2017-Janua, pp. 105–114, 2017, doi: 10.1109/CVPR.2017.19.
+[2]  	J. Li, L. Wu, S. Wang, W. Wu, F. Song, and G. Zheng, "Super resolution image reconstruction of textile based on SRGAN," Proc. - 2019 IEEE Int. Conf. Smart Internet Things, SmartIoT 2019, pp. 436–439, 2019, doi: 10.1109/SmartIoT.2019.00078.
+[3]  	X. Wang et al., "ESRGAN: Enhanced super-resolution generative adversarial networks," Lect. Notes Comput. Sci. (including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics), vol. 11133 LNCS, pp. 63–79, 2019, doi: 10.1007/978-3-030-11021-5_5.
+[4]  	"ESRGAN + : FURTHER IMPROVING ENHANCED SUPER-RESOLUTION GENERATIVE ADVERSARIAL NETWORK Nathana ¨ el Carraz Rakotonirina , Andry Rasoanaivo Laboratoire d' Informatique et Math' ematiques , Universit' e d' Antananarivo , Madagascar," pp. 3637–3641, 2020.
+[5]  	Y. Yan et al., "Fine-grained Attention and Feature-sharing Generative Adversarial Networks for Single Image Super-Resolution," IEEE Trans. Multimed., vol. 14, no. 8, pp. 1–15, 2021, doi: 10.1109/TMM.2021.3065731.
+[6]	Takano, Nao, and Gita Alaghband. “SRGAN: Training Dataset Matters,”  2019-March., https://arxiv.org/ftp/arxiv/papers/1903/1903.09922.pdf.
+[7] 	Yang, W., Zhang, X., Tian, Y., Wang, W., Xue, J. H., & Liao, Q. (2019). Deep learning for single image super-resolution: A brief review. IEEE Transactions on Multimedia, 21(12), 3106-3121.
+[8]	https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+
 **Code References**
+[1] https://pypi.org/project/basicsr/
+[2] https://github.com/ncarraz/ESRGANplus
+[3] https://github.com/Rainyfish/FASRGAN-and-Fs-SRGAN
 
 **Data References**
+[1]  	E. Agustsson and R. Timofte, "NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study," IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit. Work., vol. 2017-July, pp. 1122–1131, 2017, doi: 10.1109/CVPRW.2017.150.
+[2] https://cvnote.ddlee.cc/2019/09/22/image-super-resolution-datasets

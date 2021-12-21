@@ -4,7 +4,7 @@ EE 8108 Course Project
 There are multiple ways to run the code. Either the Colab notebooks or the source code can be used. The recommended method is the Colab notebook, as Google Colab will handle all pypi dependencies. Additional dependencies may be required when using the source code.
 
 ## Colab Instructions (Recommended Method)
-**Method 1: Single Image Upscaling and Visualization**
+**Method 1: Single Image Upscaling and Visualization (Recommended Method)**
 
 To run single image upscaling using all of the methods use demo.ipynb
 
@@ -14,6 +14,8 @@ Steps:
 3. Run the notebook block
 
 To change the image that is evaluated on, change the folder paths in the .yml and .json files located in /options/test
+
+
 
 **Method 2: Batch Image Upscaling**
 

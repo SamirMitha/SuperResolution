@@ -3,8 +3,8 @@ EE 8108 Course Project
 
 There are multiple ways to run the code. Either the Colab notebooks or the source code can be used. The recommended method is the Colab notebook, as Google Colab will handle all pypi dependencies. Additional dependencies may be required when using the source code.
 
-## Colab Instructions (Recommended Method)
-**Method 1: Single Image Upscaling and Visualization (Recommended Method)**
+# Colab Instructions (Recommended Method)
+##**Method 1: Single Image Upscaling and Visualization**
 
 To run single image upscaling using all of the methods use demo.ipynb
 
@@ -17,7 +17,7 @@ To change the image that is evaluated on, change the folder paths in the .yml an
 
 
 
-**Method 2: Batch Image Upscaling**
+##**Method 2: Batch Image Upscaling**
 
 To run image upscaling on the entire test set use test.ipynb
 
@@ -28,7 +28,7 @@ Steps:
 
 To change the test set that is evaluated on, change the folder paths in the .yml and .json files located in /options/test
 
-## Source Code Instructions
+# Source Code Instructions
 A GPU is required to run the code from source.
 
 Steps:
@@ -43,12 +43,12 @@ python codes/ESRGANplus/test.py -opt options/test/ESRGANplus/test_ESRGANplus.jso
 ```
 7. Results will be placed in the results folder
 
-## Download Links
+# Download Links
 Pretrained Models: https://drive.google.com/drive/folders/1aeqtlMlqvaCaQ6TNwlEbjvPbNdCzTo9o?usp=sharing
 
 Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?usp=sharing
 
-## References
+# References
 **Paper References**
 
 [1]  	C. Ledig et al., "Photo-realistic single image super-resolution using a generative adversarial network," Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition, CVPR 2017, vol. 2017-Janua, pp. 105–114, 2017, doi: 10.1109/CVPR.2017.19.

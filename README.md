@@ -28,10 +28,9 @@ To change the test set that is evaluated on, change the folder in the .yml and .
 
 ## Source Code Instructions
 
-## Source Code Instructions
-
 ## Download Links
 Pretrained Models: https://drive.google.com/drive/folders/1aeqtlMlqvaCaQ6TNwlEbjvPbNdCzTo9o?usp=sharing
+
 Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?usp=sharing
 
 ## References

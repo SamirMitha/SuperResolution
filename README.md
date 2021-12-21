@@ -5,6 +5,7 @@ There are multiple ways to run the code. Either the Colab notebooks or the sourc
 
 ## Colab Instructions
 **Method 1: Single Image Upscaling and Visualization**
+
 To run single image upscaling using all of the methods use demo.ipynb
 
 Steps:
@@ -15,6 +16,7 @@ Steps:
 To change the image that is evaluated on, change the folder in the .yml and .json files located in /options/test
 
 **Method 2: Batch Image Upscaling**
+
 To run image upscaling on the entire test set use test.ipynb
 
 Steps:

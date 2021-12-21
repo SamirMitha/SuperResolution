@@ -66,6 +66,7 @@ Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?u
 [8]	https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 
 **Code References**
+
 [1] https://pypi.org/project/basicsr/
 
 [2] https://github.com/ncarraz/ESRGANplus
@@ -73,6 +74,7 @@ Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?u
 [3] https://github.com/Rainyfish/FASRGAN-and-Fs-SRGAN
 
 **Data References**
+
 [1]  	E. Agustsson and R. Timofte, "NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study," IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit. Work., vol. 2017-July, pp. 1122–1131, 2017, doi: 10.1109/CVPRW.2017.150.
 
 [2] https://cvnote.ddlee.cc/2019/09/22/image-super-resolution-datasets

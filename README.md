@@ -4,7 +4,7 @@ EE 8108 Course Project
 There are multiple ways to run the code. Either the Colab notebooks or the source code can be used. The recommended method is the Colab notebook, as Google Colab will handle all pypi dependencies. Additional dependencies may be required when using the source code.
 
 # Colab Instructions (Recommended Method)
-##**Method 1: Single Image Upscaling and Visualization**
+## Method 1: Single Image Upscaling and Visualization
 
 To run single image upscaling using all of the methods use demo.ipynb
 
@@ -17,7 +17,7 @@ To change the image that is evaluated on, change the folder paths in the .yml an
 
 
 
-##**Method 2: Batch Image Upscaling**
+## Method 2: Batch Image Upscaling
 
 To run image upscaling on the entire test set use test.ipynb
 
@@ -49,7 +49,7 @@ Pretrained Models: https://drive.google.com/drive/folders/1aeqtlMlqvaCaQ6TNwlEbj
 Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?usp=sharing
 
 # References
-**Paper References**
+## Paper References
 
 [1]  	C. Ledig et al., "Photo-realistic single image super-resolution using a generative adversarial network," Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition, CVPR 2017, vol. 2017-Janua, pp. 105–114, 2017, doi: 10.1109/CVPR.2017.19.
 
@@ -67,7 +67,7 @@ Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?u
 
 [8]	https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 
-**Code References**
+## Code References
 
 [1] https://pypi.org/project/basicsr/
 
@@ -75,7 +75,7 @@ Data: https://drive.google.com/drive/folders/1UIVXcTaLKLjetmhJXrrbJVSqQvha9y9C?u
 
 [3] https://github.com/Rainyfish/FASRGAN-and-Fs-SRGAN
 
-**Data References**
+## Data References
 
 [1]  	E. Agustsson and R. Timofte, "NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study," IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit. Work., vol. 2017-July, pp. 1122–1131, 2017, doi: 10.1109/CVPRW.2017.150.
 

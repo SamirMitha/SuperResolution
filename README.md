@@ -1,5 +1,5 @@
 # SuperResolution
-EE 8108 Course Project
+EE 8108 Course Project - Samir Mitha and Yasaman Ahmadiadli
 
 There are multiple ways to run the code. Either the Colab notebooks or the source code can be used. The recommended method is the Colab notebook, as Google Colab will handle all pypi dependencies. Additional dependencies may be required when using the source code.
 

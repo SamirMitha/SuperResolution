@@ -3,6 +3,9 @@ EE 8108 Course Project - Samir Mitha and Yasaman Ahmadiadli
 
 There are multiple ways to run the code. Either the Colab notebooks or the source code can be used. The recommended method is the Colab notebook, as Google Colab will handle all pypi dependencies. Additional dependencies may be required when using the source code.
 
+# Samples
+![Samples](README_images/Picture1.jpg)
+
 # Colab Instructions (Recommended Method)
 ## Method 1: Single Image Upscaling and Visualization
 
